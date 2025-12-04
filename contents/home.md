@@ -36,7 +36,7 @@ Email: masillon@163.com
 #### Education
 puiching middle school 2019-2022
 puiching middle school 2022\-2025
-GDUFS 2025-2029
+GDUFS 2025-2029 translation and computer science
 
 #### Research Interests
 学术废物
